@@ -1,5 +1,5 @@
 # Data Analysis Skills
-## ParsingDataFromExcel
+## Parsing Data From Excel
 
 Data cleaning skills using a .csv of geotechnical data from ‘EMerald Geomodelling AS’.
 
