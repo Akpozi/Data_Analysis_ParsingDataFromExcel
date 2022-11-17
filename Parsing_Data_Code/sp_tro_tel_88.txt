@@ -1,0 +1,2 @@
+$
+Título: Perfil de Sondagem  SPTPLANO DE SONDAGENS,Número:  SP_TRO-TEL_88TRECHO: SP_TRO-TEL_88FURO:SP - 88,CONTRATANTE:Subcontratada Enefer,OBRA:Projeto Básico - Ferrovia Lucas do Rio Verde - Trecho TRO-TEL,LOCAL: MT - MATO GROSSO,CIDADE:Rondonópolis,INÍCIO LAVAGEM:2020-11-12,COORDENADAS:E 739.017,126,N 8.195.326,187,OBSERVAÇÃO:Profundidade de projeto 19m,;Não atingiu a profundidade projetada.,;Início da lavagem 2,45,DATA DO FURO:2020-11-12,EMPRESA DE FISCALIZAÇÃO:FISCAL: Ediemes Pereira Neves,OPERADOR: Rodrigo Borges Leonel,RESPONSÁVEL TÉCNICO:José Borges Junior,

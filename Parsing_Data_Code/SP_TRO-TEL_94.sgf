@@ -1,0 +1,14 @@
+$
+CONTRATANTE=Subcontratada Enefer,OBSERVAÇÃO=Profundidade de projeto 15m,;Não atingiu a profundidade projetada.,;Início da lavagem 2,45,LOCAL=MT - MATO GROSSO,CIDADE=Rondonópolis,FISCAL=Ediemes Pereira Neves,INÍCIO LAVAGEM=2.45,COMP. REVESTIMENTO=1,50,Título=Perfil de Sondagem  SPT,HM=121A,HX=E 737.711,456,HY=N 8.200.240,215,HJ=SP_TRO-TEL_94,HL=SP_TRO-TEL_94,HK=SP - 94,KD=20201117,Person=Luiz Carlos da Conceição,KP=Projeto Básico - Ferrovia Lucas do Rio Verde - Trecho TRO-TEL
+#
+D=-1,ProvNr=0.0,Nn=0,Nn+1=0,K=Areia siltosa cinza,AO=-1,AN=0
+D=-1.45,ProvNr=1.0,Nn=4,Nn+1=4,K=Areia siltosa cinza,AO=-1.45,AN=-1
+D=-2.45,ProvNr=2.0,Nn=7,Nn+1=8,K=Areia siltosa cinza,AO=-2.45,AN=-1.45
+D=-3.45,ProvNr=3.0,Nn=8,Nn+1=8,K=Areia siltosa cinza,AO=-3.45,AN=-2.45
+D=-4.45,ProvNr=4.0,Nn=12,Nn+1=14,K=Areia siltosa cinza;v,AO=-4.45,AN=-3.45
+D=-5.45,ProvNr=5.0,Nn=16,Nn+1=17,K=Areia siltosa cinza,AO=-5.45,AN=-4.45
+D=-6.45,ProvNr=6.0,Nn=12,Nn+1=11,K=Areia siltosa cinza,AO=-6.45,AN=-5.45
+D=-7.45,ProvNr=7.0,Nn=13,Nn+1=13,K=Areia siltosa cinza,AO=-7.45,AN=-6.45
+D=-8.45,ProvNr=8.0,Nn=17,Nn+1=18,K=Areia siltosa cinza,AO=-8.45,AN=-7.45
+D=-9.45,ProvNr=9.0,Nn=21,Nn+1=24,K=Areia siltosa cinza,AO=-9.45,AN=-8.45
+D=-10.45,ProvNr=10.0,Nn=29,Nn+1=30,K=Areia siltosa cinza,AO=-10.45,AN=-9.45
