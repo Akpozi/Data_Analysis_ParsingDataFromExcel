@@ -1,7 +1,7 @@
 # Data Analysis Skills
 ## Parsing Data From Excel
 
-Data cleaning skills using a .csv of geotechnical data from ‘EMerald Geomodelling AS’.
+Data cleaning skills using a .csv containing geotechnical data from ‘EMerald Geomodelling AS’.
 
 EMerald’s internal data structures are built around the Swedish geotechnical format – They have an open source library called libsgfdata (installable via pip or by cloning the github repo and following the README.me).
 
